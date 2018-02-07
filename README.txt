@@ -1,3 +1,5 @@
+This was a project for a class in Fall 2017
+
 
 A few simple steps are required to run this program.
 =========================================================================================
